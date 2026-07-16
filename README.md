@@ -144,7 +144,7 @@
 
 ---
 
-<a  href="https://t.me/ZEUS_PANEL_BOT"  target="_blank">
+<a  href="https://t.me/AHURA_MAZDA_BOT"  target="_blank">
 
 <img src="https://img.shields.io/badge/Zeus_Telegram_Bot-Start_Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Zeus Telegram Bot" height="40">
 
@@ -158,7 +158,7 @@
 
 ### 🤖 روش اول: نصب از طریق ربات تلگرام (پیشنهادی)
 
-1. 🌐 وارد **[ربات تلگرام زئوس](https://t.me/ZEUS_PANEL_BOT)** شوید و آن را `Start` کنید.
+1. 🌐 وارد **[ربات تلگرام زئوس](https://t.me/AHURA_MAZDA_BOT)** شوید و آن را `Start` کنید.
 
 2. 👤 در منوی اصلی روی گزینه **«➕ ثبت اکانت کلودفلر»** کلیک کنید.
 
@@ -176,7 +176,7 @@
 
   <div  align="center">
 
-<a  href="https://zeus-panel.ir-netlify.workers.dev/"  target="_blank">
+<a  href="https://ahura-mazda-panel.ir-netlify.workers.dev/"  target="_blank">
 
 <img src="https://img.shields.io/badge/Launch_Zeus_Panel-Deployer_Site-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Deploy Zeus" height="40">
 
@@ -186,7 +186,7 @@
 
 ### 🌐 روش دوم: نصب از طریق سایت Deployer
 
-1. 🌐 وارد **[سایت نصب‌کننده](https://zeus-panel.ir-netlify.workers.dev/)** شوید.
+1. 🌐 وارد **[سایت نصب‌کننده](https://ahura-mazda-panel.ir-netlify.workers.dev/)** شوید.
 
 2. 🟧 بر روی دکمه نارنجی‌رنگ **«دریافت توکن»** کلیک کنید تا به حساب کلودفلر خود هدایت شوید.
 
